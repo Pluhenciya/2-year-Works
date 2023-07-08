@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resourses\backgroundAlchemist.png" />
+    <None Remove="Resourses\Shop.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resourses\backgroundAlchemist.png" />
+    <Resource Include="Resourses\Shop.jpg" />
+  </ItemGroup>
+
+</Project>
