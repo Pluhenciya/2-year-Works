@@ -1,0 +1,21 @@
+C:\Temp\ispp11\mdk0101\кс го\кс го\bin\Debug\net7.0-windows\кс го.exe
+C:\Temp\ispp11\mdk0101\кс го\кс го\bin\Debug\net7.0-windows\кс го.deps.json
+C:\Temp\ispp11\mdk0101\кс го\кс го\bin\Debug\net7.0-windows\кс го.runtimeconfig.json
+C:\Temp\ispp11\mdk0101\кс го\кс го\bin\Debug\net7.0-windows\кс го.dll
+C:\Temp\ispp11\mdk0101\кс го\кс го\bin\Debug\net7.0-windows\кс го.pdb
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.csproj.AssemblyReference.cache
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\App.g.cs
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го_MarkupCompile.cache
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го_MarkupCompile.lref
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.g.resources
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.AssemblyInfoInputs.cache
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.AssemblyInfo.cs
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.csproj.CoreCompileInputs.cache
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.dll
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\refint\кс го.dll
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.pdb
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\кс го.genruntimeconfig.cache
+C:\Temp\ispp11\mdk0101\кс го\кс го\obj\Debug\net7.0-windows\ref\кс го.dll

@@ -1,0 +1,19 @@
+﻿<Page x:Class="Task3.Pages.AutorizationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Task3.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Авторизация">
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Логин"/>
+        <TextBox x:Name="loginTextBox"/>
+        <Label Content="Пароль"/>
+            <TextBox x:Name="passwordTextBox"/>
+            <Button x:Name="entranceButton" Content="Войти" Click="EntranceButton_Click"/>
+        <Label x:Name="warningLabel" Content="Пароль или логин введены не правильно" FontSize="10" Foreground="Red" Visibility="Hidden"/>
+    </StackPanel>
+</Page>
