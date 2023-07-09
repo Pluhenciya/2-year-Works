@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Background.png" />
+    <None Remove="Images\CenterIcon.jpg" />
+    <None Remove="Images\CreateIcon.jpg" />
+    <None Remove="Images\ExitIcon.png" />
+    <None Remove="Images\ForegroundColor.png" />
+    <None Remove="Images\GamburgerIcon.png" />
+    <None Remove="Images\LeftIcon.png" />
+    <None Remove="Images\RightIcon.png" />
+    <None Remove="Images\SaveIcon.png" />
+    <None Remove="Images\WidthIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Background.png" />
+    <Resource Include="Images\CenterIcon.jpg" />
+    <Resource Include="Images\CreateIcon.jpg" />
+    <Resource Include="Images\ExitIcon.png" />
+    <Resource Include="Images\ForegroundColor.png" />
+    <Resource Include="Images\GamburgerIcon.png" />
+    <Resource Include="Images\LeftIcon.png" />
+    <Resource Include="Images\RightIcon.png" />
+    <Resource Include="Images\SaveIcon.png" />
+    <Resource Include="Images\WidthIcon.png" />
+  </ItemGroup>
+
+</Project>

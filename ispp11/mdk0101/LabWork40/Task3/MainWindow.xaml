@@ -1,0 +1,54 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas >
+        <Canvas.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFA3D2F7" Offset="0.276"/>
+                <GradientStop Color="#FF94FF00" Offset="1"/>
+            </LinearGradientBrush>
+        </Canvas.Background>
+        <Ellipse Width="125" Height="125" Canvas.Left="378" Canvas.Top="94" Fill="Orange"/>
+        <Ellipse Width="85" Height="170" Canvas.Left="398" Canvas.Top="189" Fill="Orange"/>
+        <Rectangle Height="38" Canvas.Left="393" Canvas.Top="91" Width="39" RenderTransformOrigin="0.5,0.5" Fill="Orange">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-67.538"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Height="38" Canvas.Left="452" Canvas.Top="65" Width="39" RenderTransformOrigin="0.645,1.67" Fill="Orange">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-103.546"/>
+                    <TranslateTransform X="37.592" Y="-32.699"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Ellipse Width="119" Height="117" Canvas.Left="362" Canvas.Top="245" Fill="Orange"/>
+        <Ellipse Width="19" Height="160" Canvas.Left="337" Canvas.Top="138" Fill="Orange" RenderTransformOrigin="0.5,0.5">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-24.926"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Polygon Points="30, 130, 130, 30, 230, 130" Fill="Pink" Canvas.Left="312" Canvas.Top="130" Height="47" Width="148" />
+        <Polygon Points="30, 130, 130, 30, 230, 30" Fill="Pink" Canvas.Left="450" Canvas.Top="136" Height="47" Width="148" />
+        <Line X1="100" Y1="30" X2="150" Y2="60" Stroke="Black" Canvas.Left="334" Canvas.Top="161" Height="41" Width="120"/>
+        <Line X1="100" Y1="30" X2="50" Y2="60" Stroke="black" Canvas.Left="352" Canvas.Top="161" Height="41" Width="120" />
+    </Canvas>
+</Window>

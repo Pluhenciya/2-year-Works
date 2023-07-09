@@ -1,0 +1,12 @@
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\bin\Debug\net7.0\LabWorkLibrary.deps.json
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\bin\Debug\net7.0\LabWorkLibrary.dll
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\bin\Debug\net7.0\LabWorkLibrary.pdb
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.csproj.AssemblyReference.cache
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.AssemblyInfoInputs.cache
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.AssemblyInfo.cs
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.csproj.CoreCompileInputs.cache
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.dll
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\refint\LabWorkLibrary.dll
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.pdb
+C:\Temp\ispp11\mdk0101\LabWork23\LabWorkLibrary\obj\Debug\net7.0\ref\LabWorkLibrary.dll

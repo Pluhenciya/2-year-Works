@@ -1,0 +1,34 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button x:Name="ShowMenuButton" HorizontalAlignment="Left" Click="ShowMenuButton_Click">
+            <Image Source="/Images/GamburgerIcon.png" Width="40" Height="40" />
+        </Button>
+        <StackPanel x:Name="MenuStackPanel" Width="45" HorizontalAlignment="Left">
+            <Button>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images/CreateIcon.jpg"  Width="40" Height="40"/>
+                    <TextBlock Text="Создать" Width="70"/>
+                </StackPanel>
+            </Button>
+            <Button>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images/SaveIcon.png"  Width="40" Height="40"/>
+                    <TextBlock Text="Сохранить" Width="70"/>
+                </StackPanel>
+            </Button>
+            <Button>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images/ExitIcon.png"  Width="40" Height="40"/>
+                    <TextBlock Text="Выход" Width="70"/>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Window>
